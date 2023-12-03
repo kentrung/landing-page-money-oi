@@ -1,0 +1,17 @@
+@media (min-width: 1270px) {
+	.container {width: 1240px;}
+}
+a {transition: all 0.3s;text-decoration: none;}
+a:hover, a:focus {text-decoration: none;}
+body {font-family: SF-UI-Display-Regular;background: #192938;max-width: 1920px;overflow-x: hidden;}
+.text-white {color: #fff;}
+.text-green {color: #25f9f1;}
+.text-grey {color: #c1c7d0;}
+.bg-green {background: #31cfc0;}
+.top-common-title {
+	font-size: 11px;
+	img {margin: 6px 20px 0 0;float: left;}
+}
+.big-common-title {font-size: 45px;line-height: 54px;}
+.des-common {font-size: 18px;line-height: 30px;letter-spacing: 0.3px; }
+

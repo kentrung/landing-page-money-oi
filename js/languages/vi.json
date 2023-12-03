@@ -1,0 +1,118 @@
+{
+    "header": {
+        "home": "Trang chủ",
+        "contact": "Liên hệ" 
+    },
+    "earn": {
+    	"info": {
+    		"title": "Tiêu tiền cho Tương lai",
+    		"des1": "Tương lai của bạn phụ thuộc vào cách bạn sử dụng tiền và thời gian trong hôm nay. ",
+    		"des2": "2 phút sử dụng MoneyOi mỗi ngày sẽ dần tạo thói quen chi tiêu có kế hoạch và hình thành tư duy tài chính một cách tự nhiên."
+    	},
+    	"picture": "images/mobile-vn.png"
+    },
+    "finance": {
+        "info": {
+            "feature": "Tài chính cá nhân",
+            "title": "Phương pháp 6 hũ",
+            "des1": "MoneyOi hỗ trợ bạn lên kế hoạch và phân bổ thu nhập cho các khoản chi tiêu hợp lý, mang lại nhiều giá trị trong tương lai. ",
+            "des2": "Tiêu tiền từ hũ giáo dục sẽ nâng cao kỹ năng, thu nhập tăng theo. ",
+            "des3": "Tiêu tiền từ hũ đầu tư sẽ tạo thêm nguồn thu nhập trong tương lai."
+        },
+        "picture": "images/finance-vn.png"
+    },
+    "feature1": {
+        "info": {
+            "feature": "Tính năng",
+            "title": "Tự động phân bổ thu nhập",
+            "des1": "Vào 6 hũ theo tỉ lệ thiết lập trước, giúp bạn tiết kiệm được thời gian tính toán khi sử dụng. ",
+            "des2": "Báo cáo trực quan theo hũ giúp bạn dễ dàng theo dõi và kiểm soát tình hình tài chính của bản thân theo kế hoạch đã đặt ra."
+        },
+        "picture": "images/income-vn.png"
+    },
+    "feature2": {
+        "info": {
+            "feature": "Tính năng",
+            "title": "So sánh cộng đồng",
+            "des": "Giúp bạn điều chỉnh thói quen chi tiêu tốt hơn thông qua việc tham khảo những người có mức thu nhập và điều kiện sống tương đồng."
+        },
+        "picture": "images/rank-vn.png"
+    },
+    "instruction": {
+        "info": {
+            "feature": "Hướng dẫn",
+            "title": "Thiết lập 6 hũ"
+        },
+        "slider": {
+            "block1": {
+                "name1": "Thiết yếu",
+                "name2": "Gợi ý: 50-70%",
+                "name3": "Cho việc chi tiêu để duy trì cuộc sống của bạn",
+                "name4": "Ví dụ: thuê nhà, tiền điện, đồ ăn..."
+            },
+            "block2": {
+                "name1": "Giáo dục",
+                "name2": "Gợi ý: 5-20%",
+                "name3": "Cho việc chi tiêu để nâng cao trình độ bản thân giúp tăng thu nhập",
+                "name4": "Ví dụ: ngoại ngữ, học nâng cao nghiệp vụ..."
+            },
+            "block3": {
+                "name1": "Tiết kiệm",
+                "name2": "Gợi ý: 5-20%",
+                "name3": "Cho việc mua sắm những thứ đắt tiền hay dự phòng hoặc khẩn cấp",
+                "name4": "Ví dụ: mua ô tô, khám bệnh, gửi tiết kiệm..."
+            },
+            "block4": {
+                "name1": "Hưởng thụ",
+                "name2": "Gợi ý: 5-15%",
+                "name3": "Cho việc thư giãn tái tạo sức lao động, duy trì thu nhập hiện có.",
+                "name4": "Ví dụ: đi xem phim, du lịch, đi shopping"
+            },
+            "block5": {
+                "name1": "Đầu tư",
+                "name2": "Gợi ý: 5-15%",
+                "name3": "Cho việc đầu tư để tạo ra thu nhập trong tương lai",
+                "name4": "Ví dụ: mua cổ phiếu, góp vốn kinh doanh, mở cửa hàng"
+            },
+            "block6": {
+                "name1": "Cho đi là còn mãi",
+                "name2": "Gợi ý: 5-10%",
+                "name3": "Đây là hũ dành cho việc giúp đỡ người khác để bản thân hạnh phúc và thành công hơn.",
+                "name4": "Ví dụ: tặng quà cho người thân, cho bạn mượn tiền, làm từ thiện"
+            }
+        }
+    },
+    "afterall": {
+        "info": {
+            "feature": "Hướng dẫn",
+            "title": "Và trên hết ...",
+            "des1": "Sự thành công trong tài chính cá nhân 80% đến từ hành vi (chỉ 20% còn lại mới là kiến thức).",
+            "des2": "Chúng tôi cam kết nếu sử dụng MoneyOi 2 phút mỗi ngày bạn sẽ hoàn toàn được tự do tài chính"
+        }
+    },
+    "feedback": {
+        "feature": "Cảm nhận",
+        "title": "Khách hàng nói gì",
+        "feedback1": "Khi sử dụng phương pháp 6 hũ tôi đã ý thức nhiều hơn về việc tiêu tiền của mình. Trong nhiều năm, tôi duy trì tiêu tiền thường xuyên từ hũ giáo dục cho việc mua sách, học kỹ năng mềm giúp kỹ năng của tôi ngày càng hoàn thiện. Việc duy trì việc trích 5% thu nhập cho các hoạt động thiện nguyện giúp tôi hạnh phúc và có các mối quan hệ xã hội tốt hơn. Nhờ đó tôi được thăng tiến trong công việc và có cuộc sống viên mãn.",
+        "name1": "Michael",
+        "job1": "Giám đốc kinh doanh",
+        "feedback2": "Tôi đã nhầm. Khi mới sử dụng tôi nghĩ rằng cần tích hợp với Ngân hàng để tự động điền chi tiêu khi quẹt thẻ hoặc chuyển khoản. Nhưng sau tôi lại thực sự thích tính năng nhập tay, vì chỉ cần 20 giây để nhập giao dịch nhưng nó tác động đủ mạnh lên não, giúp tôi kìm hãm các cơn cuồng mua sắm và chi tiêu quá đà của mình. ",
+        "name2": "Ngọc Hân",
+        "job2": "Người mẫu",
+        "feedback3": "Trải nghiệm tuyệt vời giúp tôi hứng thú sử dụng hằng ngày. Trước đây tôi đã dùng nhiều ứng dụng quản lý tài chính cá nhân khác nhưng không duy trì được lâu. Tôi đã sử dụng MoneyOi từ những ngày đầu và vẫn duy trì sử dụng hằng ngày cho đến nay. Giao diện đẹp, dễ chịu, các tính năng đều hết sức đơn giản. Tôi chỉ cần có thế.",
+        "name3": "Christian Đỗ",
+        "job3": "Nhân viên VP"
+    },
+    "codeqr": {
+        "feature": "Hành động",
+        "title": "Đừng trì hoãn tự do tài chính",
+        "des1": "Cài ứng dụng ngay hôm nay và sử dụng 2 phút mỗi ngày.",
+        "des2": "Miễn phí sao không thử?",
+        "scan": "Scan mã QR này để cài đặt MoneyOi"
+    },
+    "footer": {
+    	"home"      	: "Trang chủ",
+        "contact"   	: "Liên hệ" 
+    },
+    "downloadapp"		: "Tải ứng dụng"
+}

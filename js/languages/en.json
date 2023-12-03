@@ -1,0 +1,118 @@
+{
+    "header": {
+        "home": "Home",
+        "contact": "Contact us" 
+    },
+    "earn": {
+    	"info": {
+    		"title": "Spend to Earn more",
+    		"des1": "The future is up to your present usage of money and time. ",
+    		"des2": "Just 2 minutes a day using MoneyOi to make your spending habit well-planned freely. "
+    	},
+    	"picture": "images/mobile-en.png"
+    },
+    "finance": {
+        "info": {
+            "feature": "Personal Financial management",
+            "title": "6-jar money management",
+            "des1": "MoneyOi directs you in financial plans and income allocation to focus on reasonalbe spendings of more value in the future.",
+            "des2": "Education enables growth of personality and income potential.",
+            "des3": "Investment supports to increase future value of money."
+        },
+        "picture": "images/finance-en.png"
+    },
+    "feature1": {
+        "info": {
+            "feature": "Feature",
+            "title": "Auto split income",
+            "des1": "Into 6 Jars for different purposes based on the default ratio, which can be customized in setting.",
+            "des2": "In addition, jar reports provide visualized tracking of your financial status vs. the set-up plan."
+        },
+        "picture": "images/income-en.png"
+    },
+    "feature2": {
+        "info": {
+            "feature": "Feature",
+            "title": "Insights",
+            "des": "Refference of how other users in your location and income range set up their jars helps you to improve your spending habit."
+        },
+        "picture": "images/rank-en.png"
+    },
+    "instruction": {
+        "info": {
+            "feature": "Instruction",
+            "title": "6-jar management"
+        },
+        "slider": {
+            "block1": {
+                "name1": "Necessities",
+                "name2": "Suggestion: 50-70%",
+                "name3": "This jar is to maintain your daily life.",
+                "name4": "Examples: Rent, bills, groceries, etc."
+            },
+            "block2": {
+                "name1": "Education",
+                "name2": "Suggestion: 5-20%",
+                "name3": "This jar is to invest in personal development to increase the income",
+                "name4": "Examples: learning a new language or taking a more advanced course in your field, etc. "
+            },
+            "block3": {
+                "name1": "Long-term saving",
+                "name2": "Suggestion: 5-20%",
+                "name3": "This jar is for more serious purpose, bigger purchases.",
+                "name4": "Examples: emergencies, cars, house, etc."
+            },
+            "block4": {
+                "name1": "Play",
+                "name2": "Suggestion: 5-15%",
+                "name3": "This jar is to bring you joy, and in return, encourage you to earn more. ",
+                "name4": "Examples: a vacation, cinema or some relaxing moments in a spa. "
+            },
+            "block5": {
+                "name1": "Investment",
+                "name2": "Suggestion: 5-15%",
+                "name3": "This jar is to benefit your future financial opportunities.",
+                "name4": "Examples: stocks, becoming a shareholder, or opening a restaurant, etc. "
+            },
+            "block6": {
+                "name1": "Give",
+                "name2": "Suggestion: 5-10%",
+                "name3": "Purpose: to support other persons then making you happier",
+                "name4": "Example: Donation, charity or help offers to your surroundings."
+            }
+        }
+    },
+    "afterall": {
+        "info": {
+            "feature": "Instruction",
+            "title": "After all ...",
+            "des1": "Success in personal finance comes 80% to your habit (only 20% to your knowledge).",
+            "des2": "If you use MoneyOi in 2 minutes a day, we commit your success to financial freedom."
+        }
+    },
+    "feedback": {
+        "feature": "Feedback",
+        "title": "Testimonials",
+        "feedback1": "After I knew 6-jar management, I attend to my money spending much more. In years, I keep to spend Education jar in books and soft-skill classes. Thanks to it, my mindset and skills are upgraded a lot. Also, Give jar enbles me to enjoy social happiness and network expansion. After all, I have better chances at works and success in life.",
+        "name1": "Michael",
+        "job1": "Sale Director",
+        "feedback2": "I was wrong. When I first used it, I thought it was necessary to integrate with the Bank to automatically fill in the money when swiping or transferring. But then I really like the hand-in feature, because it only takes 20 seconds to enter the transaction, but it has a strong enough impact on the brain, helping me to curb the shopping craze and spend too much.",
+        "name2": "Ngoc Han",
+        "job2": "Model",
+        "feedback3": "Great experience helps me enjoy everyday use. Previously I used many other personal financial management applications but did not maintain for long. I have been using MoneyOi since the early days and still maintain daily use so far. The interface is nice, pleasant, the features are very simple. I just need to be.",
+        "name3": "Christ Do",
+        "job3": "Officer"
+    },
+    "codeqr": {
+        "feature": "Action",
+        "title": "To your financial freedom?",
+        "des1": "Install now, then use just 2 minutes a day",
+        "des2": "It is free, why not?",
+        "scan": "Scan QR code to download MoneyOi"
+    },
+    "footer": {
+    	"home"      	: "Home",
+        "contact"   	: "Contact" 
+    },
+    "downloadapp"		: "Download App"
+}
